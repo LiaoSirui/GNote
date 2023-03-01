@@ -1,0 +1,3 @@
+[submodule "libs/blog.liaosirui.com"]
+	path = libs/blog.liaosirui.com
+	url = https://github.com/LiaoSirui/blog.liaosirui.com.git
